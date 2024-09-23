@@ -4,7 +4,7 @@ import configuration
 
 sentiment_analysis = pipeline(
     "sentiment-analysis",
-    model=configuration.PATH_TO_TOKENIZER,
+    model=configuration.PATH_TO_MY_MODEL,
     tokenizer=configuration.PATH_TO_TOKENIZER,
     return_all_scores=False
 )
