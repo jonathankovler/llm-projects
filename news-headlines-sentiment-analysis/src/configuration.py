@@ -1,0 +1,6 @@
+PATH_TO_TABLE = r'C:\Users\kovle\PycharmProjects\news-headlines-sentiment-analysis\data\ynet_news_headlines.csv'
+WEB_URL = r'https://www.ynet.co.il/news/category/184'
+PATH_TO_PROCESSED_TABLE = r'C:\\Users\kovle\PycharmProjects\news-headlines-sentiment-analysis\data\ynet_news_headlines_processed.csv'
+PATH_TO_MY_MODEL = 'heBERT-finetuned-news-sc2'
+PATH_TO_TOKENIZER = 'heBERT-finetuned-news-sc2'
+HEBREW_STOP_WORDS = r'C:\Users\kovle\PycharmProjects\news-headlines-sentiment-analysis\hebrew_stop_words.txt'
